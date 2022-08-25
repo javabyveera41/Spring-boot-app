@@ -16,7 +16,7 @@ public class A
 		ArrayList<Person> al=new ArrayList<>();
 		//System.out.println(reader);
 		String line=null;
-		System.out.println(line.length());
+		
 		
 	}
 
